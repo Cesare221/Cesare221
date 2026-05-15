@@ -45,10 +45,10 @@ Upload de PDFs → OCR inteligente (impresso/manuscrito) → Validação automá
 ### 📊 Atividade & Métricas
 
 ![Seguidores](https://img.shields.io/github/followers/Cesare221?style=flat-square&logo=github&color=0f766e)
-![OrdemJURIS - Último Commit](https://img.shields.io/github/last-commit/Cesare221/OrdemJURIS?style=flat-square&color=blue)
-![OrdemJURIS - Tamanho](https://img.shields.io/github/repo-size/Cesare221/OrdemJURIS?style=flat-square&color=orange)
-![OrdemJURIS - Linguagem Principal](https://img.shields.io/github/languages/top/Cesare221/OrdemJURIS?style=flat-square&color=purple)
-![OrdemJURIS - Commits/Mês](https://img.shields.io/github/commit-activity/m/Cesare221/OrdemJURIS?style=flat-square&color=red)
+![OrdemJURIS - Último Commit](https://img.shields.io/github/last-commit/Cesare221/DOCGEN_PROJECT?style=flat-square&color=blue)
+![OrdemJURIS - Tamanho](https://img.shields.io/github/repo-size/Cesare221/DOCGEN_PROJECT?style=flat-square&color=orange)
+![OrdemJURIS - Linguagem Principal](https://img.shields.io/github/languages/top/Cesare221/DOCGEN_PROJECT?style=flat-square&color=purple)
+![OrdemJURIS - Commits/Mês](https://img.shields.io/github/commit-activity/m/Cesare221/DOCGEN_PROJECT?style=flat-square&color=red)
 
 ---
 
@@ -59,7 +59,7 @@ Back-end developer & automation engineer using **Python**, focused on solving re
 - 🔭 **Flagship project:** [**OrdemJURIS**](https://github.com/Cesare221/DOCGEN_PROJECT) — PDF legal document data extraction pipeline using OCR, automatic field validation, and document generation integrated with Google Drive
 - 🧠 **AI & Data:** Generative models (Gemini/Google AI) for handwritten and printed text extraction and normalization
 - 🛡️ **Security:** Path traversal prevention, input sanitization, and hardened Docker containers with non-root users
-- 🐍 **Stack:** `Python`, `Flask`, `OpenCV`, `Tesseract OCR`, `Docker`, `Google Drive API`
+- 🐍 **Stack:** `Python`, `Flask`, `OpenCV`, `Tesseract OCR`, `Docker`, `Google Drive API`, `HTML`
 
 ### 🛠️ Tech Stack
 
