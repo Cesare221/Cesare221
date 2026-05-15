@@ -81,10 +81,10 @@ PDF uploads → Intelligent OCR (printed/handwritten) → Automatic field valida
 ### 📊 Activity & Metrics
 
 ![Followers](https://img.shields.io/github/followers/Cesare221?style=flat-square&logo=github&color=0f766e)
-![OrdemJURIS - Last Commit](https://img.shields.io/github/last-commit/Cesare221/OrdemJURIS?style=flat-square&color=blue)
-![OrdemJURIS - Repo Size](https://img.shields.io/github/repo-size/Cesare221/OrdemJURIS?style=flat-square&color=orange)
-![OrdemJURIS - Top Language](https://img.shields.io/github/languages/top/Cesare221/OrdemJURIS?style=flat-square&color=purple)
-![OrdemJURIS - Commits/Month](https://img.shields.io/github/commit-activity/m/Cesare221/OrdemJURIS?style=flat-square&color=red)
+![OrdemJURIS - Last Commit](https://img.shields.io/github/last-commit/Cesare221/DOCGEN_PROJECT?style=flat-square&color=blue)
+![OrdemJURIS - Repo Size](https://img.shields.io/github/repo-size/Cesare221/DOCGEN_PROJECT?style=flat-square&color=orange)
+![OrdemJURIS - Top Language](https://img.shields.io/github/languages/top/Cesare221/DOCGEN_PROJECT?style=flat-square&color=purple)
+![OrdemJURIS - Commits/Month](https://img.shields.io/github/commit-activity/m/Cesare221/DOCGEN_PROJECT?style=flat-square&color=red)
 
 ---
 
@@ -93,6 +93,6 @@ PDF uploads → Intelligent OCR (printed/handwritten) → Automatic field valida
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cesare221/OrdemJURIS">⭐ Star DOCGEN_PROJECT</a> · 
+  <a href="https://github.com/Cesare221/DOCGEN_PROJECT">⭐ Star DOCGEN_PROJECT</a> · 
   <a href="https://github.com/Cesare221?tab=repositories">📂 More Repos</a>
 </p>
