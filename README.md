@@ -20,7 +20,7 @@
 
 Desenvolvedor back-end & automação com **Python**, focado em resolver problemas reais com código limpo, arquitetura segura e pipelines de dados inteligentes.
 
-- 🔭 **Projeto principal:** [**OrdemJURIS**](https://github.com/Cesare221/OrdemJURIS) — Pipeline de extração de dados em PDFs jurídicos via OCR, validação automática e geração de documentos integrados ao Google Drive
+- 🔭 **Projeto principal:** [**OrdemJURIS**](https://github.com/Cesare221/DOCGEN_PROJECT) — Pipeline de extração de dados em PDFs jurídicos via OCR, validação automática e geração de documentos integrados ao Google Drive
 - 🧠 **IA & Dados:** Modelos generativos (Gemini/Google AI) para extração e normalização de textos manuscritos e impressos
 - 🛡️ **Segurança:** Path traversal prevention, sanitize de inputs e containers Docker enxutos com usuário non-root
 - 🐍 **Stack:** `Python`, `Flask`, `OpenCV`, `Tesseract OCR`, `Docker`, `Google Drive API`
@@ -35,7 +35,7 @@ Desenvolvedor back-end & automação com **Python**, focado em resolver problema
 
 ### 📌 Projeto em Destaque
 
-<a href="https://github.com/Cesare221/OrdemJURIS">
+<a href="https://github.com/Cesare221/DOCGEN_PROJECT">
   <img src="https://img.shields.io/badge/OrdemJURIS-OCR%20%26%20Automação%20Documental-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="OrdemJURIS" />
 </a>
 
@@ -56,7 +56,7 @@ Upload de PDFs → OCR inteligente (impresso/manuscrito) → Validação automá
 
 Back-end developer & automation engineer using **Python**, focused on solving real-world problems with clean code, secure architecture, and intelligent data pipelines.
 
-- 🔭 **Flagship project:** [**OrdemJURIS**](https://github.com/Cesare221/OrdemJURIS) — PDF legal document data extraction pipeline using OCR, automatic field validation, and document generation integrated with Google Drive
+- 🔭 **Flagship project:** [**OrdemJURIS**](https://github.com/Cesare221/DOCGEN_PROJECT) — PDF legal document data extraction pipeline using OCR, automatic field validation, and document generation integrated with Google Drive
 - 🧠 **AI & Data:** Generative models (Gemini/Google AI) for handwritten and printed text extraction and normalization
 - 🛡️ **Security:** Path traversal prevention, input sanitization, and hardened Docker containers with non-root users
 - 🐍 **Stack:** `Python`, `Flask`, `OpenCV`, `Tesseract OCR`, `Docker`, `Google Drive API`
@@ -93,6 +93,6 @@ PDF uploads → Intelligent OCR (printed/handwritten) → Automatic field valida
 </p>
 
 <p align="center">
-  <a href="https://github.com/Cesare221/OrdemJURIS">⭐ Star OrdemJURIS</a> · 
+  <a href="https://github.com/Cesare221/OrdemJURIS">⭐ Star DOCGEN_PROJECT</a> · 
   <a href="https://github.com/Cesare221?tab=repositories">📂 More Repos</a>
 </p>
