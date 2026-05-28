@@ -18,7 +18,7 @@
 
 <h2 id="português">🇧🇷 Sobre</h2>
 
-Desenvolvedor back-end & automação com **Python**, focado em resolver problemas reais com código limpo, arquitetura segura e pipelines de dados inteligentes.
+Desenvolvedor Full-Stack **HTML**, **JavaScript**, **CSS**, **React**, **Python**, focado em resolver problemas reais com código limpo, arquitetura segura e pipelines de dados inteligentes.
 
 - 🔭 **Projeto principal:** [**OrdemJURIS**](https://github.com/Cesare221/DOCGEN_PROJECT) — Pipeline de extração de dados em PDFs jurídicos via OCR, validação automática e geração de documentos integrados ao Google Drive
 - 🧠 **IA & Dados:** Modelos generativos (Gemini/Google AI) para extração e normalização de textos manuscritos e impressos
@@ -54,7 +54,7 @@ Upload de PDFs → OCR inteligente (impresso/manuscrito) → Validação automá
 
 <h2 id="english">🇺🇸 About</h2>
 
-Back-end developer & automation engineer using **Python**, focused on solving real-world problems with clean code, secure architecture, and intelligent data pipelines.
+Full-stack developer **HTML**, **JavaScript**, **CSS**, **React**, **Python**, focused on solving real-world problems with clean code, secure architecture, and intelligent data pipelines.
 
 - 🔭 **Flagship project:** [**OrdemJURIS**](https://github.com/Cesare221/DOCGEN_PROJECT) — PDF legal document data extraction pipeline using OCR, automatic field validation, and document generation integrated with Google Drive
 - 🧠 **AI & Data:** Generative models (Gemini/Google AI) for handwritten and printed text extraction and normalization
