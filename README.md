@@ -1,7 +1,7 @@
 <h1 align="center">Cesare221</h1>
 
 <p align="center">
-  Desenvolvedor Full-Stack · OCR & Automação Documental
+  Desenvolvedor Full-Stack
 </p>
 
 <p align="center">
