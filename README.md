@@ -39,7 +39,7 @@ Passionate about building intelligent automation solutions that solve real-world
 
 ## 🏆 Featured Projects
 
-### 🏛️ [OrdemJURIS](https://github.com/Cesare221/OrdemJURIS)
+### 🏛️ [OrdemJURIS](https://github.com/Cesare221/DOCGEN_PROJECT)
 **Legal Document Automation Platform**
 - AI-powered document analysis and classification
 - OCR extraction from court documents (PDFs, images)
