@@ -39,21 +39,21 @@ Passionate about building intelligent automation solutions that solve real-world
 
 ## 🏆 Featured Projects
 
-### 🏛️ [OrdemJURIS](https://github.com/cesardelmondes/OrdemJURIS)
+### 🏛️ [OrdemJURIS](https://github.com/Cesare221/OrdemJURIS)
 **Legal Document Automation Platform**
 - AI-powered document analysis and classification
 - OCR extraction from court documents (PDFs, images)
 - Automated workflow for legal professionals
 - **Tech**: Python, Tesseract, Gemini API, Flask
 
-### 🔍 [Leitor OCR](https://github.com/cesardelmondes/leitor-ocr)
+### 🔍 [Leitor OCR](https://github.com/Cesare221/leitor-ocr)
 **Intelligent Document Processing System**
 - Multi-format document text extraction
 - Batch processing capabilities
 - Custom preprocessing pipelines
 - **Tech**: OpenCV, Tesseract, Python
 
-### 🦷 [Odonto Clinic](https://github.com/cesardelmondes/odonto-clinic)
+### 🦷 [Odonto Clinic](https://github.com/Cesare221/odonto-clinic)
 **Dental Clinic Management System**
 - Patient records and appointment scheduling
 - Treatment history tracking
@@ -91,7 +91,7 @@ Passionate about building intelligent automation solutions that solve real-world
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cdelmondes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesar.delmondes@icloud.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cesardelmondes)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cesare221)
 
 ---
 
